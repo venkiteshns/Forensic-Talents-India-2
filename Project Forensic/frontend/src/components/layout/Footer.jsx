@@ -40,7 +40,7 @@ export function Footer() {
               <li><Link to="/about" className="hover:text-white transition-colors">About Us</Link></li>
               <li><Link to="/services" className="hover:text-white transition-colors">Services</Link></li>
               <li><Link to="/education" className="hover:text-white transition-colors">Education & Training</Link></li>
-              <li><Link to="/success-stories" className="hover:text-white transition-colors">Success Stories</Link></li>
+
               <li><Link to="/contact" className="hover:text-white transition-colors">Contact</Link></li>
             </ul>
           </div>
@@ -55,6 +55,11 @@ export function Footer() {
               <li><Link to="/services/questioned-documents" className="hover:text-white transition-colors">Questioned Documents</Link></li>
               <li><Link to="/services/crime-scene" className="hover:text-white transition-colors">Crime Scene Investigation</Link></li>
               <li><Link to="/services/cross-examination" className="hover:text-white transition-colors">Cross Examination</Link></li>
+              <li><Link to="/services/polygraph" className="hover:text-white transition-colors">Polygraph Examination</Link></li>
+              <li><Link to="/services/workplace-assessments" className="hover:text-white transition-colors">Workplace Assessments</Link></li>
+              <li><Link to="/services/forensic-training" className="hover:text-white transition-colors">Professional Forensic Training & Capacity Building</Link></li>
+              <li><Link to="/services/environmental" className="hover:text-white transition-colors">Environmental Forensics</Link></li>
+              <li><Link to="/services/financial" className="hover:text-white transition-colors">Financial Forensic Investigations</Link></li>
             </ul>
           </div>
 
